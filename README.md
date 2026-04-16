@@ -39,7 +39,7 @@ Each day includes:
 - Z-test for proportions  
 - p-value & statistical significance  
 
-📁 Folder: `Day 1 AB testing/`
+📁 Folder: `Day 1 A-B testing/`
 
 ---
 
