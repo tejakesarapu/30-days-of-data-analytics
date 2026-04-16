@@ -24,6 +24,8 @@ Understand how to make data-driven decisions using hypothesis testing.
 
 ## 🔹 A/B Testing Process
 
+<img src="visuals/ab_testing_flow/1.png" width="600">
+
 1. Define Hypothesis  
 2. Check Assumptions  
 3. Collect Data  
@@ -48,6 +50,12 @@ Used to compare performance between groups.
 
 ---
 
+## 🔹 Hypothesis Visualization
+
+<img src="visuals/hypothesis_representation/1.png" width="600">
+
+---
+
 ## 🔹 Key Metrics
 
 ### p-value
@@ -59,7 +67,9 @@ Used to compare performance between groups.
 
 ---
 
-## 🔹 Errors
+## 🔹 Errors & Statistical Concepts
+
+<img src="visuals/statistical_concepts_summary/1.png" width="600">
 
 - Type I Error → False Positive  
 - Type II Error → False Negative  
