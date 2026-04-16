@@ -24,7 +24,7 @@ Understand how to make data-driven decisions using hypothesis testing.
 
 ## 🔹 A/B Testing Process
 
-<img src="visuals/ab_testing_flow/1.png" width="600">
+<img src="visuals/ab_testing_flow/1.png" width="100%">
 
 1. Define Hypothesis  
 2. Check Assumptions  
