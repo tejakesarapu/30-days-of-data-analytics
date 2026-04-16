@@ -53,14 +53,6 @@ Each day includes:
 
 ---
 
-## 📈 What’s Next?
-
-- Confidence Intervals  
-- Hypothesis Testing (Deep Dive)  
-- Real-world datasets & case studies  
-
----
-
 ## 💡 Why This Repository?
 
 This is not just notes.  
