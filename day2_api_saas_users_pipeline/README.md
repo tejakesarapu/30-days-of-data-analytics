@@ -25,17 +25,20 @@ API → Extract → Transform → Load
 ## 📁 Project Structure
 day2_saas_users/
 
-- │
-- ├── saas_users_pipeline.py   # Main ETL pipeline script
-- ├── saas_users.csv           # Output dataset
-- └── README.md                # Project documentation
+│
+
+├── saas_users_pipeline.py   # Main ETL pipeline script
+
+├── saas_users.csv           # Output dataset
+
+└── README.md                # Project documentation
 
 ## ⚙️ How to Run
 1. Install dependencies  
 pip install pandas requests  
 
 2. Run the script  
-python saas_users_pipeline.py  
+python saas_users_pipeline.ipynb
 
 ## 📊 Sample Output
 | full_name  | email           | country | age |
