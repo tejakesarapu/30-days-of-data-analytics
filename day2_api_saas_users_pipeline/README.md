@@ -24,10 +24,11 @@ API → Extract → Transform → Load
 
 ## 📁 Project Structure
 day2_saas_users/
-│
-├── saas_users_pipeline.py   # Main ETL pipeline script
-├── saas_users.csv           # Output dataset
-└── README.md                # Project documentation
+
+- │
+- ├── saas_users_pipeline.py   # Main ETL pipeline script
+- ├── saas_users.csv           # Output dataset
+- └── README.md                # Project documentation
 
 ## ⚙️ How to Run
 1. Install dependencies  
