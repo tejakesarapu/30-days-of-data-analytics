@@ -6,8 +6,10 @@ This project focuses on cleaning and preprocessing a real-world dataset related 
 ---
 
 ## 📁 Dataset
-- **Raw Data:** `ravenstack_churn_events.csv`
-- **Cleaned Data:** `ravenstack_churn_events_cleaned.csv`
+- **Source:** Kaggle  
+- **Dataset Link:** https://www.kaggle.com/datasets/rivalytics/saas-subscription-and-churn-analytics-dataset  
+- **Raw Data:** `ravenstack_churn_events.csv`  
+- **Cleaned Data:** `ravenstack_churn_events_cleaned.csv`  
 
 ---
 
