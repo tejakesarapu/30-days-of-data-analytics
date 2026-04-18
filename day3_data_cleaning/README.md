@@ -35,7 +35,6 @@ This project focuses on cleaning and preprocessing a real-world dataset related 
 
 ### 2. Data Cleaning
 - Handled missing values using appropriate strategies  
-- Removed duplicate records  
 - Standardized categorical values  
 
 ### 3. Data Transformation
